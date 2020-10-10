@@ -879,6 +879,7 @@ using Style-Synchonized GANs (2018 SIGGRAPH Asia)</b> [[Paper]](http://geometry.
 <a name="style_transfer" />
 
 ## Style Learning and Transfer
+1. [Magic Wall, change texture, swap walls, swap floors, swap texture](http://www.colalab.org/media/paper/bare_jrnl_JfqwY5c.pdf)
 <b>Style-Content Separation by Anisotropic Part Scales (2010)</b> [[Paper]](https://www.cs.sfu.ca/~haoz/pubs/xu_siga10_style.pdf)
 <p align="center"><img width="50%" src="https://sites.google.com/site/kevinkaixu/_/rsrc/1472852123106/publications/style_b.jpg?height=145&width=400" /></p>
 
