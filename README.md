@@ -64,6 +64,7 @@ To see a survey of RGBD datasets, check out Michael Firman's [collection](http:/
 <a name="3d_models" />
 
 ### 3D Models
+<b>ADE20K</b> [[Link]](https://groups.csail.mit.edu/vision/datasets/ADE20K/)
 <b>Princeton Shape Benchmark (2003)</b> [[Link]](http://shape.cs.princeton.edu/benchmark/)
 <br>1,814 models collected from the web in .OFF format. Used to evaluating shape-based retrieval and analysis algorithms.
 <p align="center"><img width="50%" src="https://github.com/timzhang642/3D-Machine-Learning/blob/master/imgs/Princeton%20Shape%20Benchmark%20(2003).jpeg" /></p>
